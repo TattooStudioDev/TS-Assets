@@ -1,0 +1,13 @@
+{
+  "name": "fslightbox-react",
+  "version": "1.7.10",
+  "description": "A capable React component for displaying images, videos, or, through custom sources, anything you want in a full-window overlying box.",
+  "author": "Piotr Zdziarski",
+  "homepage": "https://fslightbox.com/",
+  "main": "index.js",
+  "peerDependencies": {
+    "prop-types": ">=15.6.2",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
